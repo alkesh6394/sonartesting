@@ -12,8 +12,8 @@ def sum_of_two_numbers(num1, num2):
     return num1 + num2
 
 # Define numbers
-num1 = 10
-num2 = 20
+num1 = 50
+num2 = 30
 
 # Calculate sum using the function
 result = sum_of_two_numbers(num1, num2)
